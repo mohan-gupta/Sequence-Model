@@ -1,2 +1,2 @@
 # Sequence-Model
-Implementation of RNN using Pytorch
+Implementation of RNN, LSTM and GRU using Pytorch
